@@ -36,7 +36,7 @@ The dataset provides a multidimensional view of youth employability rather than 
 <img width="711" height="400" alt="Screenshot 2026-05-15 113111" src="https://github.com/user-attachments/assets/b0ba745e-9393-4970-861d-363300a8d7ba" />
 
 
-# 5. Key Insight 1 — Education Shows a Strong Employment Gradient
+# 5. Key Insight 1:Education Shows a Strong Employment Gradient
 
 Education is one of the clearest differentiators in the dataset.
 
@@ -51,7 +51,7 @@ Education is one of the clearest differentiators in the dataset.
 Higher educational attainment is strongly associated with better employability outcomes in the dataset.
 
 
-# 6. Key Insight 2 — Digital Skills Are Closely Associated With Employability
+# 6. Key Insight 2:Digital Skills Are Closely Associated With Employability
 
 Digital capability shows another strong pattern.
 
@@ -66,7 +66,7 @@ Digital capability shows another strong pattern.
 Youth with advanced digital skills recorded an average employability score of **89.3**, compared with **53.5** for those with basic digital skills.
 
 
-# 7. Key Insight 3 — Training Access Is Associated With Better Employment Outcomes
+# 7. Key Insight 3 :Training Access Is Associated With Better Employment Outcomes
 
 | Training Access | Employment Rate | Avg. Employability Score |
 | --------------- | --------------: | -----------------------: |
@@ -78,7 +78,7 @@ Training programs may therefore represent an important avenue for improving work
 
 ---
 
-# 8. Key Insight 4 — Internet Access Is Associated With Employment
+# 8. Key Insight 4: Internet Access Is Associated With Employment
 
 
 | Internet Access | Employment Rate | Avg. Employability Score |
@@ -88,7 +88,7 @@ Training programs may therefore represent an important avenue for improving work
 
 The results suggest that **digital connectivity may play an important role in access to employment opportunities, skills development, and workforce participation.**
 
-# 9. Key Insight 5 — Gender Differences Exist in Employment Outcomes
+# 9. Key Insight 5:Gender Differences Exist in Employment Outcomes
 
 The dataset contains:
 
@@ -107,7 +107,7 @@ The results indicate a gender gap in employability outcomes, highlighting the im
 
 ---
 
-# 10. Key Insight 6 — Skill Gaps Remain a Major Employability Challenge
+# 10. Key Insight 6 : Skill Gaps Remain a Major Employability Challenge
 
 
 | Skill Gap            |   Records |     Share |
@@ -123,7 +123,7 @@ Digital-skills development should be a central component of youth employability 
 
 ---
 
-# 11. Key Insight 7 — Formal Employment Is Associated With Higher Income
+# 11. Key Insight 7: Formal Employment Is Associated With Higher Income
 
 
 | Job Type | Average Monthly Income |
@@ -136,7 +136,7 @@ The employability challenge is not simply about getting young people into employ
 
 ---
 
-# 12. Country-Level Insights
+# 12. Country Level Insights
 
 | Country      | Employment Rate |
 | ------------ | --------------: |
@@ -196,41 +196,39 @@ The results reinforce the central role of skills in the employability model used
 
 # 15. Recommendations
 
-### 1. Expand Digital Skills Development — High Priority
+### 1. Expand Digital Skills Development 
 
 The largest identified skill gap is low digital capability.
 
 Youth employment programs should prioritize practical digital-skills training aligned with workplace requirements.
 
-### 2. Increase Access to Training — High Priority
+### 2. Increase Access to Training 
 
 Training access is associated with an employment rate of **83.2%**, compared with **65.1%** among youth without training access.
 
 Programs should improve access to affordable, practical and employment-oriented training.
 
-### 3. Improve Digital Connectivity — High Priority
+### 3. Improve Digital Connectivity 
 
 Internet access is associated with significantly stronger employment outcomes.
 
 Digital inclusion initiatives should combine connectivity with digital-literacy training and access to online employment opportunities.
 
-### 4. Strengthen Education-to-Employment Pathways — High Priority
+### 4. Strengthen Education-to-Employment Pathways 
 
 The substantial employment differences across education levels indicate the importance of connecting education with practical employability skills, internships, vocational training and industry exposure.
 
-### 5. Focus on Employment Quality — Medium Priority
+### 5. Focus on Employment Quality 
 
 Because formal employment is associated with considerably higher income than informal employment, youth employment initiatives should focus not only on employment creation but also on **decent, sustainable and productive employment**.
 
-### 6. Address Gender Differences — Medium Priority
+### 6. Address Gender Differences 
 
 The observed gender gap in employability and employment outcomes warrants further analysis to identify the underlying barriers affecting female youth.
 
-### 7. Use Data to Target Interventions — High Priority
+### 7. Use Data to Target Interventions 
 
 Organizations can use employability scores, skill gaps, education levels and employment outcomes to identify groups requiring targeted interventions rather than applying a one-size-fits-all approach.
-
----
 
 ---
 
