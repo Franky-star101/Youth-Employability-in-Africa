@@ -1,5 +1,5 @@
 
-# Youth Employability in Africa: Data-Driven Insights into Employment Outcomes
+# Youth Employability in Africa: Insights into Employment Outcomes
 
 ## 1. Project Overview
 
@@ -35,6 +35,10 @@ The dataset provides a multidimensional view of youth employability rather than 
 
 <img width="711" height="400" alt="Screenshot 2026-05-15 113111" src="https://github.com/user-attachments/assets/b0ba745e-9393-4970-861d-363300a8d7ba" />
 
+An interactive dashboard analyzing youth employability, skills, education, 
+employment outcomes, and income across selected African countries.
+
+[View interactive PowerBi Dashboard]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiNTk0MWNlZDAtYTc4Zi00MmEzLTgyZWEtZWRkMDFjNzgxYmE5IiwidCI6Ijg2MTA3MGNhLTE1ODQtNDNmZS05ZDZjLTZlYmIyY2QyMTZjYSJ9)
 
 # 5. Key Insight 1:Education Shows a Strong Employment Gradient
 
