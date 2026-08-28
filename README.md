@@ -1,5 +1,3 @@
-# Youth-Employability-in-Africa
-Analyzing Skills, Employment Outcomes and Opportunities
 
 # Youth Employability in Africa: Data-Driven Insights into Employment Outcomes
 
@@ -25,48 +23,18 @@ The project seeks to answer five key questions:
 
 ## 3. Dataset
 
-The dataset contains **4,450 youth records** covering:
+The dataset comprises 4,450 youth records from 10 African countries across three regions (East, West, and Southern Africa), covering 2019–2024. It captures key demographic, education, skills, digital access, training, employment, income, and employability indicators.
 
-* **10 African countries**
-* **3 regions:** East, West and Southern Africa
-* **6 years:** 2019–2024
-* Gender
-* Age
-* Education level
-* Field of study
-* Vocational skills
-* Digital skill level
-* Skill score
-* Internet access
-* Training access
-* Employability score
-* Employment probability
-* Employment status
-* Job type
-* Monthly income
-* Skill gap
-* Recommended intervention
+Key variables include: gender, age, education, vocational and digital skills, skill and employability scores, training and internet access, employment status, job type, income, skill gaps, and recommended interventions.
 
 The dataset provides a multidimensional view of youth employability rather than focusing solely on employment status.
 
 ---
 
-# 4. Key Performance Indicators
+# 4. Power BI Dashboard
 
-| KPI                                |    Result |
-| ---------------------------------- | --------: |
-| **Total Youth Records**            | **4,450** |
-| **Employment Rate**                | **79.3%** |
-| **Unemployment Rate**              | **20.7%** |
-| **Average Skill Score**            |  **67.6** |
-| **Average Employability Score**    |  **64.8** |
-| **Average Employment Probability** | **71.6%** |
-| **Youth with Training Access**     | **78.4%** |
-| **Youth with Internet Access**     | **75.6%** |
+<img width="711" height="400" alt="Screenshot 2026-05-15 113111" src="https://github.com/user-attachments/assets/b0ba745e-9393-4970-861d-363300a8d7ba" />
 
-These KPIs provide a high-level snapshot of the employability landscape before drilling into individual factors.
-
----
 
 # 5. Key Insight 1 — Education Shows a Strong Employment Gradient
 
@@ -79,17 +47,9 @@ Education is one of the clearest differentiators in the dataset.
 | Secondary           |       **91.2%** |
 | Tertiary            |      **100.0%** |
 
-Employment outcomes increase substantially with educational attainment.
 
-Tertiary-educated youth recorded an average employability score of approximately **87.5**, compared with **45.0** among those with primary education and **21.9** among those with no formal education.
+Higher educational attainment is strongly associated with better employability outcomes in the dataset.
 
-### Portfolio takeaway
-
-**Higher educational attainment is strongly associated with better employability outcomes in the dataset.**
-
-However, this should be presented as an association rather than proof that education alone causes employment.
-
----
 
 # 6. Key Insight 2 — Digital Skills Are Closely Associated With Employability
 
@@ -102,57 +62,31 @@ Digital capability shows another strong pattern.
 | Intermediate        |       **88.8%** |                 **70.3** |
 | Advanced            |      **100.0%** |                 **89.3** |
 
-The relationship is particularly visible between digital skill level and employability score.
 
 Youth with advanced digital skills recorded an average employability score of **89.3**, compared with **53.5** for those with basic digital skills.
 
-### Portfolio takeaway
-
-**The data indicates a strong relationship between digital capability and employability.**
-
-This makes digital-skills development a particularly important intervention area.
-
----
 
 # 7. Key Insight 3 — Training Access Is Associated With Better Employment Outcomes
-
-Youth with access to training recorded substantially stronger employment outcomes.
 
 | Training Access | Employment Rate | Avg. Employability Score |
 | --------------- | --------------: | -----------------------: |
 | No              |       **65.1%** |                 **45.3** |
 | Yes             |       **83.2%** |                 **70.8** |
 
-Youth with training access had an employment rate approximately **18 percentage points higher** than those without access.
-
-They also recorded a substantially higher average employability score.
-
-### Portfolio takeaway
-
-**Access to training is strongly associated with improved employment outcomes and employability scores.**
-
+Access to training is strongly associated with improved employment outcomes and employability scores.
 Training programs may therefore represent an important avenue for improving workforce readiness.
 
 ---
 
 # 8. Key Insight 4 — Internet Access Is Associated With Employment
 
-Internet access also shows a substantial difference.
 
 | Internet Access | Employment Rate | Avg. Employability Score |
 | --------------- | --------------: | -----------------------: |
 | No              |       **60.9%** |                 **50.9** |
 | Yes             |       **85.2%** |                 **70.0** |
 
-Youth with internet access recorded an employment rate approximately **24 percentage points higher** than those without access.
-
-### Portfolio takeaway
-
 The results suggest that **digital connectivity may play an important role in access to employment opportunities, skills development, and workforce participation.**
-
-Again, this is an observed association rather than a causal conclusion.
-
----
 
 # 9. Key Insight 5 — Gender Differences Exist in Employment Outcomes
 
@@ -168,11 +102,6 @@ Employment outcomes differ between the two groups.
 | Male   |       **81.3%** |                 **69.6** |
 | Female |       **76.9%** |                 **60.5** |
 
-The male employment rate is approximately **4.4 percentage points higher**.
-
-The difference in average employability scores is larger, at approximately **9.1 points**.
-
-### Portfolio takeaway
 
 The results indicate a gender gap in employability outcomes, highlighting the importance of examining whether differences in education, skills, training access, internet access, or other factors contribute to the observed disparity.
 
@@ -180,7 +109,6 @@ The results indicate a gender gap in employability outcomes, highlighting the im
 
 # 10. Key Insight 6 — Skill Gaps Remain a Major Employability Challenge
 
-The largest identified skill-gap category is **Low Digital Skills**, representing approximately **41.7%** of all records.
 
 | Skill Gap            |   Records |     Share |
 | -------------------- | --------: | --------: |
@@ -190,38 +118,25 @@ The largest identified skill-gap category is **Low Digital Skills**, representin
 | No Digital Skills    |   **175** |  **3.9%** |
 | Low Education        |   **140** |  **3.1%** |
 
-This makes digital capability the most prominent skills-related challenge identified in the dataset.
 
-### Portfolio takeaway
-
-**Digital-skills development should be a central component of youth employability interventions.**
+Digital-skills development should be a central component of youth employability interventions.
 
 ---
 
 # 11. Key Insight 7 — Formal Employment Is Associated With Higher Income
 
-Among employed youth, the dashboard distinguishes between formal and informal employment.
 
 | Job Type | Average Monthly Income |
 | -------- | ---------------------: |
 | Formal   |        **KSh 272,748** |
 | Informal |         **KSh 75,468** |
 
-The average income associated with formal employment is substantially higher than informal employment.
-
-Formal workers also recorded an average employability score of approximately **85.2**, compared with **59.2** among informal workers.
-
-### Portfolio takeaway
-
 The employability challenge is not simply about getting young people into employment.
-
 **The quality and type of employment also matter.**
 
 ---
 
 # 12. Country-Level Insights
-
-Employment outcomes vary substantially across the countries represented in the dataset.
 
 | Country      | Employment Rate |
 | ------------ | --------------: |
@@ -236,15 +151,13 @@ Employment outcomes vary substantially across the countries represented in the d
 | Senegal      |        **0.0%** |
 | Zambia       |        **0.0%** |
 
-### Important data-quality observation
+## Important data-quality observation
 
 These extreme country-level results should be treated carefully.
 
 For example, Ghana, Rwanda and South Africa have 100% employment in the dataset, while Senegal and Zambia have 0%. This may reflect the way the dataset was constructed or sampled rather than actual national employment rates.
 
-Therefore, the dashboard should present these as **employment outcomes within the dataset**, not as official national unemployment statistics.
-
-This is actually a valuable portfolio point because it demonstrates **data literacy and responsible interpretation**.
+Therefore, the dashboard presents these as **employment outcomes within the dataset**, not as official national unemployment statistics.
 
 ---
 
@@ -265,10 +178,6 @@ The largest decline occurs between **2019 and 2020**, followed by a gradual reco
 
 The employment rate subsequently declined to **79.0% in 2024**.
 
-### Portfolio takeaway
-
-The year-by-year analysis demonstrates why time-based filtering is useful in the Power BI dashboard and provides an opportunity to investigate changes in youth employment outcomes over time.
-
 ---
 
 # 14. Analytical Relationship: Skills and Employability
@@ -281,11 +190,7 @@ The correlation between the two variables is approximately **0.99** in this data
 
 There is also a strong relationship between employability score and employment probability.
 
-### Portfolio takeaway
-
 The results reinforce the central role of skills in the employability model used in this dataset.
-
-However, because these variables may be mathematically related or constructed from overlapping inputs, the correlation should **not automatically be interpreted as an independent causal relationship**.
 
 ---
 
@@ -327,61 +232,6 @@ Organizations can use employability scores, skill gaps, education levels and emp
 
 ---
 
-# 16. Power BI Dashboard
-
-The dashboard converts these findings into an interactive analytical experience.
-
-### Main dashboard elements
-
-**KPI Cards**
-
-* Total Youth
-* Employment Rate
-* Unemployment Rate
-* Skill Score
-* Employability Score
-* Employment Probability
-
-**Interactive Filters**
-
-* Region
-* Year
-* Employment Status
-* Job Type
-
-**Visualizations**
-
-* Employment Status
-* Gender distribution
-* Skill Gap distribution
-* Skill Score vs Employability Score
-* Employment by Country
-* Income Category
-* Other demographic and employment comparisons
-
-This allows users to move from the overall employment picture into specific demographic, geographic and skills-based segments.
-
----
-
-# 17. Technical Skills Demonstrated
-
-This project demonstrates practical skills in:
-
-* **Microsoft Power BI**
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis
-* Data Modelling
-* DAX
-* KPI Development
-* Interactive Dashboard Design
-* Data Visualization
-* Segmentation
-* Comparative Analysis
-* Insight Generation
-* Business Intelligence
-* Data Storytelling
-
 ---
 
 # 18. Project Impact
@@ -410,14 +260,3 @@ The Power BI dashboard provides an interactive way to explore these patterns and
 
 ---
 
-# Top 5 Portfolio Takeaways
-
-**1. Digital skills matter:** Low digital skills represent the largest identified skill gap.
-
-**2. Education is strongly associated with employment:** Employment rises substantially across education levels, reaching 100% among tertiary-educated records in this dataset.
-
-**3. Training is associated with better outcomes:** Employment is 83.2% among youth with training access versus 65.1% without.
-
-**4. Connectivity matters:** Youth with internet access have an employment rate of 85.2%, compared with 60.9% among those without access.
-
-**5. Employment quality matters:** Average monthly income for formal employment is substantially higher than for informal employment, showing that employability analysis should consider both employment access and employment quality.
