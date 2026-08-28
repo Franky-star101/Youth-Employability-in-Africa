@@ -38,7 +38,7 @@ The dataset provides a multidimensional view of youth employability rather than 
 An interactive dashboard analyzing youth employability, skills, education, 
 employment outcomes, and income across selected African countries.
 
-[View interactive PowerBi Dashboard]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiNTk0MWNlZDAtYTc4Zi00MmEzLTgyZWEtZWRkMDFjNzgxYmE5IiwidCI6Ijg2MTA3MGNhLTE1ODQtNDNmZS05ZDZjLTZlYmIyY2QyMTZjYSJ9)
+[View interactive PowerBi Dashboard]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiNTk0MWNlZDAtYTc4Zi00MmEzLTgyZWEtZWRkMDFjNzgxYmE5IiwidCI6Ijg2MTA3MGNhLTE1ODQtNDNmZS05ZDZjLTZlYmIyY2QyMTZjYSJ9))
 
 # 5. Key Insight 1:Education Shows a Strong Employment Gradient
 
